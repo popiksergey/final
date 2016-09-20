@@ -1,0 +1,9 @@
+doc/
+spec/
+tools/
+src/
+lib/
+bootstrap.in-up.sh
+examples/
+vendor/
+license/
